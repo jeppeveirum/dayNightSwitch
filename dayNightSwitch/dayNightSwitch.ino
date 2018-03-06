@@ -12,8 +12,12 @@ int onTimePot = 2; // Potmeter to adjust the ON time
 unsigned long currentMillis = 0; // used for storing the current milliseconds
 unsigned long oldMillis = 0; // used for storing milliseconds from the millis() function to compare time
 
+int timer;
+
 // Tresholds
 int onOffTreshold;
+
+int photoResistorValue;
 
 void setup() {
   // Setting the relay ports to output
@@ -23,6 +27,15 @@ void setup() {
 }
 
 void loop() {
+
+  currentMillis = millis();
+
+  photoResistorValue = analogRead(photoResistor);  // store the photoresistor value
+
+  if(photoResistorValue < onOffTreshold)
+  {
+    
+  }
 
 
 }
