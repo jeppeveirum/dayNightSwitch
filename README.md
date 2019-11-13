@@ -4,3 +4,5 @@ Now i am editing stuff
 Dette er tilføjet i endnu_en_test branchen
 
 Dette er åbnet i masteren
+
+Og ændret i masteren muaahahahahah
