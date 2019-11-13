@@ -5,4 +5,8 @@ Dette er tilføjet i endnu_en_test branchen
 
 Dette er åbnet i masteren
 
+
+Se hvor smart det er !!! Hahahahaha
+
 Og ændret i masteren muaahahahahah
+
